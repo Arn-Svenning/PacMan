@@ -1,0 +1,25 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/arn/source/repos/Grid/Grid/Content/black-tile.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/black-tile.xnb","TextureProcessor","Texture2DContent",1737,4181,0.2203222
+"C:/Users/arn/source/repos/Grid/Grid/Content/Empty-Tex_Pacman.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/Empty-Tex_Pacman.xnb","TextureProcessor","Texture2DContent",121,4181,0.1321056
+"C:/Users/arn/source/repos/Grid/Grid/Content/File.fx","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/File.xnb","EffectProcessor","CompiledEffectContent",1878,2116,0.2741826
+"C:/Users/arn/source/repos/Grid/Grid/Content/font.spritefont","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/font.xnb","FontDescriptionProcessor","SpriteFontContent",2071,70687,0.155686
+"C:/Users/arn/source/repos/Grid/Grid/Content/ghost_eyes.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/ghost_eyes.xnb","TextureProcessor","Texture2DContent",496,4181,0.0049192
+"C:/Users/arn/source/repos/Grid/Grid/Content/ghost_green1.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/ghost_green1.xnb","TextureProcessor","Texture2DContent",1121,4181,0.1300903
+"C:/Users/arn/source/repos/Grid/Grid/Content/ghost_pink1.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/ghost_pink1.xnb","TextureProcessor","Texture2DContent",1116,4181,0.0062835
+"C:/Users/arn/source/repos/Grid/Grid/Content/ghost_red1.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/ghost_red1.xnb","TextureProcessor","Texture2DContent",1080,4181,0.0074644
+"C:/Users/arn/source/repos/Grid/Grid/Content/ghost-fear-sheet.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/ghost-fear-sheet.xnb","TextureProcessor","Texture2DContent",6012,20565,0.0062307
+"C:/Users/arn/source/repos/Grid/Grid/Content/ghost-green-sheet.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/ghost-green-sheet.xnb","TextureProcessor","Texture2DContent",4529,20565,0.264464
+"C:/Users/arn/source/repos/Grid/Grid/Content/ghost-pink-sheet.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/ghost-pink-sheet.xnb","TextureProcessor","Texture2DContent",4522,20565,0.004715
+"C:/Users/arn/source/repos/Grid/Grid/Content/ghost-red-sheet.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/ghost-red-sheet.xnb","TextureProcessor","Texture2DContent",4505,20565,0.006397
+"C:/Users/arn/source/repos/Grid/Grid/Content/Go.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/Go.xnb","TextureProcessor","Texture2DContent",7871,360085,0.0307938
+"C:/Users/arn/source/repos/Grid/Grid/Content/icon.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/icon.xnb","TextureProcessor","Texture2DContent",48251,627285,0.0301509
+"C:/Users/arn/source/repos/Grid/Grid/Content/PacMan spriteSheet.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/PacMan spriteSheet.xnb","TextureProcessor","Texture2DContent",1492,12373,0.1784523
+"C:/Users/arn/source/repos/Grid/Grid/Content/pecboy_0.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/pecboy_0.xnb","TextureProcessor","Texture2DContent",2091,4181,0.1360395
+"C:/Users/arn/source/repos/Grid/Grid/Content/pecboy_2.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/pecboy_2.xnb","TextureProcessor","Texture2DContent",2070,40085,0.0079936
+"C:/Users/arn/source/repos/Grid/Grid/Content/point-big.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/point-big.xnb","TextureProcessor","Texture2DContent",729,10901,0.0064086
+"C:/Users/arn/source/repos/Grid/Grid/Content/point.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/point.xnb","TextureProcessor","Texture2DContent",820,4181,0.2337851
+"C:/Users/arn/source/repos/Grid/Grid/Content/Ready.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/Ready.xnb","TextureProcessor","Texture2DContent",6946,360085,0.0233913
+"C:/Users/arn/source/repos/Grid/Grid/Content/Set.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/Set.xnb","TextureProcessor","Texture2DContent",5751,360085,0.016188
+"C:/Users/arn/source/repos/Grid/Grid/Content/space-to-start.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/space-to-start.xnb","TextureProcessor","Texture2DContent",9772,490085,0.0594503
+"C:/Users/arn/source/repos/Grid/Grid/Content/trophy.png","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/trophy.xnb","TextureProcessor","Texture2DContent",15290,40085,0.0061475
+"C:/Users/arn/source/repos/Grid/Grid/Content/waka waka.mp3","C:/Users/arn/source/repos/Grid/Grid/Content/bin/DesktopGL/waka waka.xnb","SoundEffectProcessor","SoundEffectContent",17768,161573,0.2409182

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/black-tile.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/Empty-Tex_Pacman.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/File.fx</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/font.spritefont</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/ghost_eyes.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/ghost_green1.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/ghost_pink1.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/ghost_red1.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/ghost-fear-sheet.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/ghost-green-sheet.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/ghost-pink-sheet.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/ghost-red-sheet.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/Go.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/icon.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/PacMan spriteSheet.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/pecboy_0.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/pecboy_2.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/point-big.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/point.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/Ready.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/Set.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/space-to-start.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/trophy.png</File>
+    <File>C:/Users/arn/source/repos/PacMan/PacMan/Content/waka waka.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

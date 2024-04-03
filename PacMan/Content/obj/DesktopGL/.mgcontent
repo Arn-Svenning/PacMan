@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/black-tile.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/Empty-Tex_Pacman.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/File.fx</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/font.spritefont</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/ghost_eyes.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/ghost_green1.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/ghost_pink1.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/ghost_red1.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/ghost-fear-sheet.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/ghost-green-sheet.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/ghost-pink-sheet.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/ghost-red-sheet.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/Go.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/icon.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/PacMan spriteSheet.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/pecboy_0.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/pecboy_2.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/point-big.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/point.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/Ready.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/Set.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/space-to-start.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/trophy.png</File>
+    <File>C:/Users/arn/source/repos/Grid/Grid/Content/waka waka.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r/qgUJP6jS8a80v+bGsXx9xAmskfyuTrBtu9RF6ju1C8bGcPTVNe2VkulGi2Iu9bxrX95h1kWt5ZNaQpyH8PWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arn\\source\\repos\\PacMan\\PacMan\\PacMan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arn\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\arn\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
